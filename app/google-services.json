@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924012649763",
+    "project_id": "image-uploader-8324c",
+    "storage_bucket": "image-uploader-8324c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924012649763:android:1acd89baa5dfb639424096",
+        "android_client_info": {
+          "package_name": "tn.esprit.imageuploader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDESa28ZqMhkZkETcF55QQLM8CTnIZPbwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
